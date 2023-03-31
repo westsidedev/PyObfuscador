@@ -1,9 +1,10 @@
-# **Obfuscador**
-**A simple script for you to obfuscate your python codes 😁**
-## Usage
+## ⚠️Requires⚠️
+**• Python 3.11**
+
+## 🔰Usage🔰
 <g>
-   <img src="/usage.gif"
+   <img src="/usage.gif" width="300"
 </g>
 
-# MIT License
+# 🛡️MIT License🛡️
 **Copyright (c) 2023 WestSideDev**
