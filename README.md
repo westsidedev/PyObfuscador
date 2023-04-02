@@ -1,7 +1,7 @@
 ## ⚠️Requires⚠️
 - **Termux**
 + **Python 3.11**
-- **PS:Not tested on Linux**
+- **PS:Not tested on Linux but it should work**
 ## 🔰Usage🔰
 <g>
    <img src="/usage.gif" width="300"
