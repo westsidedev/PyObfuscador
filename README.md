@@ -1,5 +1,6 @@
 ## ⚠️Requires⚠️
-**• Python 3.11**
+- **Termux**
++ **Python 3.11**
 
 ## 🔰Usage🔰
 <g>
