@@ -1,6 +1,7 @@
 ## ⚠️Requires⚠️
 - **Termux**
-+ **Python 3.11**
+- **Python 3.11**
+- **Run ``./install`` for dependencies**
 - **PS:Not tested on Linux but it should work**
 ## 🔰Usage🔰
 <g>
