@@ -2,7 +2,7 @@
 - **Termux**
 - **Python 3.11**
 - **Run ``./install`` for dependencies**
-- **PS:Not tested on Linux but it should work**
+- **PS:Works on Linux ✅**
 ## 🔰Usage🔰
 <g>
    <img src="/usage.gif" width="300"
