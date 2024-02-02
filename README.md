@@ -1,7 +1,6 @@
 ## ⚠️Requires⚠️
 - **Termux**
 - **Python 3.11**
-- **Run ``./install`` for dependencies**
 - **PS:Works on Linux ✅**
 ## 🔰Usage🔰
 **Do you need it for a specific version of python? [talk to me](https://t.me/WestSideDev)**
