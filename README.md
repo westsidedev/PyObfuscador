@@ -9,7 +9,7 @@
 
 
 ## Usage
-**This script uses the libs marshal, zlib, base85|64|32|16 and lambdas functions in addition to compiling the entire code including strings.**
+**This script uses the libs marshal, zlib, base85|64|32|16 and lambdas in addition to compiling the entire code including strings**
 
 ```
 Comands:
