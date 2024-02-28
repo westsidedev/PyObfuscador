@@ -9,7 +9,7 @@
 
 
 ## Usage
-**Do you need it for a specific version of python? [talk to me](https://t.me/WestSideDev)**
+**This script uses the libs marshal, zlib, base85|64|32|16 and lambdas functions in addition to compiling the entire code including strings.**
 
 ```
 Comands:
